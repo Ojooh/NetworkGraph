@@ -1,0 +1,11 @@
+How to Guide:
+
+1. From the first dropdown menu, choose your starting Station
+2. From the second dropdown menu, choose your destination station
+3. Select the time you wish to commute in the third input box in 24hr format.
+Eg. if you wish to travel at 3pm, fill 15:00
+4. With all above information, click the "Search" button.
+Note : 
+1. If there exists no path from start to finish, or there is a typo it will show error
+2. Below in the list box you can register out of service stations or faulty lines
+3. registered faulty stations will display in list box to remove them from there double click on the list box

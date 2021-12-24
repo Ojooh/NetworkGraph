@@ -1,0 +1,15 @@
+NETWORK GRAPH SETUP  GUIDE 
+- open the project folder .
+-  in the directory where the src folder is  RUN
+        python -m venv env 
+- next RUN 
+    cd Scripts/activate.
+- then RUN 
+    cd ../../
+- Make sure you are back to the directory containing the src folder and requirements.txt file
+- next RUN
+    pip install  -r requirements.txt
+- Then RUN 
+    cd src
+- Then RUN 
+    python main.py
